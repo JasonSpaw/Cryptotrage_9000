@@ -7,6 +7,7 @@ Arbitrage Project
 - Kucoin triangular arbitrage tab is still under construction.
 - Language: Python
 
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/dPmhGKzdF7Y)
+[![Watch the video](https://github.com/JasonSpaw/Cryptotrage_9000/blob/main/Home.png)](https://youtu.be/dPmhGKzdF7Y)
 
-![](https://github.com/JasonSpaw/put pic file here.PNG)
+![](https://github.com/JasonSpaw/Cryptotrage_9000/blob/main/CrossCheck.png) ![](https://github.com/JasonSpaw/Cryptotrage_9000/blob/main/Coinbase.png)
+![](https://github.com/JasonSpaw/Cryptotrage_9000/blob/main/Gemini.png) ![](https://github.com/JasonSpaw/Cryptotrage_9000/blob/main/Kraken.png)
