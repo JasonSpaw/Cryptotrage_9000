@@ -1,6 +1,6 @@
 # Cryptotrage_9000
 
-- [Code Here](https://github.com/JasonSpaw/DMIR-Final-Project---Computational-Linguistics-over-Reddit-Data/blob/main/final-project-p1.ipynb)
+- [Code Here](https://github.com/JasonSpaw/Cryptotrage_9000/blob/main/Cryptotrage_9000.py)
 
 - This project is for cross-exchange and triangular arbitrage across 4 crypto currency markets: Coinbase, Gemini, Kraken, and Kucoin.
 - Kucoin triangular arbitrage tab is still under construction.
