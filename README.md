@@ -1,11 +1,10 @@
 # Cryptotrage_9000
 
-- [Code Here](https://github.com/JasonSpaw/Cryptotrage_9000/blob/main/Cryptotrage_9000.py)
-
 - This project is for cross-exchange and triangular arbitrage across 4 crypto currency markets: Coinbase, Gemini, Kraken, and Kucoin.
 - Kucoin triangular arbitrage tab is still under construction.
 - Language: Python
-
+- [Code Here](https://github.com/JasonSpaw/Cryptotrage_9000/blob/main/Cryptotrage_9000.py)
+  
 [![Watch the video](https://github.com/JasonSpaw/Cryptotrage_9000/blob/main/Click_Me.png)](https://youtu.be/dPmhGKzdF7Y)
 
 ![](https://github.com/JasonSpaw/Cryptotrage_9000/blob/main/Home.png)
