@@ -10,4 +10,4 @@ Arbitrage Project
 [![Watch the video](https://github.com/JasonSpaw/Cryptotrage_9000/blob/main/Home.png)](https://youtu.be/dPmhGKzdF7Y)
 
 ![](https://github.com/JasonSpaw/Cryptotrage_9000/blob/main/CrossCheck.png) ![](https://github.com/JasonSpaw/Cryptotrage_9000/blob/main/Coinbase_filtered.png)
-![](https://github.com/JasonSpaw/Cryptotrage_9000/blob/main/Gemini.png) ![](https://github.com/JasonSpaw/Cryptotrage_9000/blob/main/Kraken.png)
+![](https://github.com/JasonSpaw/Cryptotrage_9000/blob/main/Gemini.png) ![](https://github.com/JasonSpaw/Cryptotrage_9000/blob/main/Kraken_filtered.png)
